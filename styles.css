@@ -58,7 +58,26 @@ table {
 
 
 /* Hero */
+h1 {
+    font-size: 50px;
+    display: grid;
+    
+   
+    
 
+}
+.hero {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    display: flex;
+    justify-content: flex-end;
+   
+
+}
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+}
 
 /* Endorsments */
 
